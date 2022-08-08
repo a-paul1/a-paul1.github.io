@@ -1,8 +1,6 @@
-# Hi there 👋
+# Hi there My Name is Anthony 👋
 
-## This is a test
-
-### Hi
+## Welcome to my GitHub page
 
 <!--
 **a-paul1/a-paul1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
