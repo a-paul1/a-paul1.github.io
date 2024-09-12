@@ -2,7 +2,7 @@
 
 🔭 **I’m currently working on:** Building applications and exploring diverse programming languages to develop innovative solutions.
 
-🌱 **I’m currently learning:** Advanced Python development, Flask for web applications, and diving deeper into C# programming.
+🌱**I’m currently focused on expanding my expertise in:** Python, Flask, C#, and a range of other programming languages including SAS, VBA, MATLAB, .Net, C, Bash, PowerShell, Java, SQL, Markdown, LaTexJavaScript, and Node.js
 
 👯 **I’m looking to collaborate on:** Open-source projects that focus on wellness tools, productivity apps, and web development.
 
