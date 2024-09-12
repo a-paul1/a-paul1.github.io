@@ -10,6 +10,6 @@
 
 💬 **Ask me about:** Programming with C#, Python, JavaScript, or any of the following languages: SAS, VBA, MATLAB, .Net, C, Bash, PowerShell, Java, SQL, and Node.js.
 
-📫 **How to reach me:** Feel free to reach out via email or connect with me on LinkedIn or Twitter @Anthony44894.
+📫 **How to reach me:** Feel free to reach out via email or connect with me on Twitter @Anthony44894.
 
 ⚡ **Fun fact:** I enjoy exploring new technologies and continuously improving my skills across different programming languages.
