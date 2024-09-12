@@ -8,8 +8,6 @@
 
 🤔 **I’m looking for help with:** Optimizing my Flask applications for performance and learning best practices in full-stack development.
 
-💬 **Ask me about:** Programming with C#, Python, JavaScript, or any of the following languages: SAS, VBA, MATLAB, .Net, C, Bash, PowerShell, Java, SQL, and Node.js.
-
 📫 **How to reach me:** Feel free to reach out via email or connect with me on Twitter @Anthony44894.
 
 ⚡ **Fun fact:** I enjoy exploring new technologies and continuously improving my skills across different programming languages.
