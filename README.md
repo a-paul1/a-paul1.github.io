@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page
 
-🔭 **I’m currently working on:** Developing applicationsand exploring various programming languages to create innovative applications.
+🔭 **I’m currently working on:** Building applications and exploring diverse programming languages to develop innovative solutions.
 
 🌱 **I’m currently learning:** Advanced Python development, Flask for web applications, and diving deeper into C# programming.
 
