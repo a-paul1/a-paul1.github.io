@@ -4,7 +4,7 @@
 
 🌱**I’m currently focused on expanding my expertise in:** Python, Flask, C#, and a range of other programming languages including SAS, VBA, MATLAB, .Net, C, Bash, PowerShell, Java, SQL, Markdown, LaTexJavaScript, and Node.js
 
-👯 **I’m looking to collaborate on:** Open-source projects that focus on wellness tools, productivity apps, and web development.
+👯 **I’m looking to collaborate on:** Open-source projects centered around productivity apps and innovative software solutions.
 
 🤔 **I’m looking for help with:** Optimizing my Flask applications for performance and learning best practices in full-stack development.
 
